@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack Dojo", "Stack Dojo\Stack Dojo.csproj", "{AFA04E5B-3D6D-44AE-B188-CBE0C571DD94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack DojoTests", "Stack DojoTests\Stack DojoTests.csproj", "{C0E46FDB-A80A-452C-B07A-F607EE7F835D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA04E5B-3D6D-44AE-B188-CBE0C571DD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA04E5B-3D6D-44AE-B188-CBE0C571DD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA04E5B-3D6D-44AE-B188-CBE0C571DD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA04E5B-3D6D-44AE-B188-CBE0C571DD94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E46FDB-A80A-452C-B07A-F607EE7F835D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E46FDB-A80A-452C-B07A-F607EE7F835D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E46FDB-A80A-452C-B07A-F607EE7F835D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E46FDB-A80A-452C-B07A-F607EE7F835D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC12B1EB-4FDF-4B47-A894-187DF21292B8}
+	EndGlobalSection
+EndGlobal
